@@ -1,0 +1,6 @@
+{
+  "name": "node-cpu-usage-watcher",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/monitor.js"
+}
